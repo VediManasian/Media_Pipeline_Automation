@@ -1,0 +1,28 @@
+# Credentials
+.env
+.env.*
+!.env.example
+
+# Virtual environments
+venv/
+.venv/
+
+# Python caches
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Test coverage reports
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+
+# Video files and generated thumbnails
+*.mp4
+*_thumbnail.jpg
+
+# Generated reports
+output.csv
+output.xlsx
+invalid_frames.csv

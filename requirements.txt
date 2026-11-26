@@ -1,0 +1,6 @@
+ffmpeg-python
+pandas
+pymongo[srv]
+PyVimeo
+XlsxWriter
+python-dotenv
